@@ -43,6 +43,7 @@
     "@tarojs/react": "3.4.0",
     "@tarojs/runtime": "3.4.0",
     "@tarojs/taro": "3.4.0",
+    "@tarojs/cli": "3.4.0",
     "antd-mobile": "^2.3.4",
     "rc-form": "^2.4.12",
     "react": "^17.0.2",
